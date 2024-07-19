@@ -1,0 +1,37 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+
+  background-color: rgb(8, 176, 176);
+}
+h4 {
+  background-color: white;
+  text-align: center;
+  width: 100%;
+}
+.list1 {
+  background-color: white;
+}
+.list2 {
+  background-color: white;
+}
+/*table {
+  width: 100%;
+  cursor: pointer;
+}
+.gauge-label {
+  text-align: center;
+  justify-content: center;
+  font-weight: bold;
+}
+/*------ CSS Media Queary for small Screen ------*/
+@media only screen and (max-width: 600px) {
+  table {
+    width: 50%;
+    font-size: 15px;
+  }
+  h4 {
+    font-size: 15px;
+  }
+}
