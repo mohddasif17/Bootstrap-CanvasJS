@@ -7,7 +7,8 @@ body {
 }
 h4 {
   text-align: center;
-  width: 100%;
+  width: 90%;
+  color: black;
 }
 .list1 {
   background-color: white;
@@ -15,7 +16,7 @@ h4 {
 .list2 {
   background-color: white;
 }
-/*table {
+table {
   width: 100%;
   cursor: pointer;
 }
