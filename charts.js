@@ -348,7 +348,7 @@ window.onload = function () {
   var chart3 = new CanvasJS.Chart("chartContainer12", {
     animationEnabled: true,
     title: {
-      text: "7:00AM-11:00PM",
+      text: "RM4_GF_MALE 7:00AM-11:00PM",
     },
     data: [
       {
@@ -356,9 +356,6 @@ window.onload = function () {
         startAngle: 240,
         yValueFormatString: '##0.00"%"',
         indexLabel: "{label} {y}",
-        showInLegend: "true",
-        legendMarkerColor: "grey",
-        legendText: "RM4_GF_MALE",
         dataPoints: [
           { y: 95, label: "Good air quality" },
           { y: 3, label: "Medium air quality" },
